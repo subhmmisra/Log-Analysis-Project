@@ -1,0 +1,55 @@
+[03:22:59 vagrant@jessie64:/vagrant] $ python3 db_py.py
+choose among the following:
+1. Popular authors
+2.Popular articles
+3.Error date
+1
+
+Popular Articles:
+
+"Candidate is jerk, alleges rival" - 338647 views
+
+------------------------------------------------------------
+"Bears love berries, alleges bear" - 253801 views
+
+------------------------------------------------------------
+"Bad things gone, say good people" - 170098 views
+
+------------------------------------------------------------
+choose among the following:
+1. Popular authors
+2.Popular articles
+3.Error date
+2
+
+Popular Authors:
+
+"Ursula La Multa" - 507594 views
+
+------------------------------------------------------------
+"Rudolf von Treppenwitz" - 423457 views
+
+------------------------------------------------------------
+"Anonymous Contributor" - 170098 views
+
+------------------------------------------------------------
+"Markoff Chaney" - 84557 views
+
+------------------------------------------------------------
+choose among the following:
+1. Popular authors
+2.Popular articles
+3.Error date
+3
+
+Days with more than 1% of errors:
+
+2016-07-17 - 2.2785265049415993 % errors found
+
+------------------------------------------------------------
+choose among the following:
+1. Popular authors
+2.Popular articles
+3.Error date
+4
+[03:24:04 vagrant@jessie64:/vagrant] $
